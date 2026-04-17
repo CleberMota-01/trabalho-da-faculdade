@@ -1,2 +1,4 @@
-# trabalho da faculdade
-primeiro trabalho da faculdade/gestão de carreiras
+# Trabalho da Faculdade(ADS)
+Primeiro Trabalho da Faculdade/Gestão de Carreiras.
+
+Repositório criado por teste no curso, Gustavo Guanabara
